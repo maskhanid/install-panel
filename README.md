@@ -1,8 +1,6 @@
-# Pterodactyl-Theme-Autoinstaller
+# Pterodactyl-Autoinstaller
 
 
-
-## Auto Install Thema Pterodactyl
 
 ## Command Install :
 
@@ -11,11 +9,13 @@ bash <(curl -s https://raw.githubusercontent.com/maskhanid/install-panel/main/in
 ```
 
 ## Fitur Tools :
-
-- Install Tema Stellar
-- Install Tema Billing
-- Install Tema Enigma
-- Uninstall Tema
+- Install Panel Pterodactyl
+- Install Thema Stellar
+- Install Thema Billing
+- Install Thema Enigma
+- Uninstall Panel
+- Uninstall Thema
+- HB Panel
 
 ## System Support :
 
